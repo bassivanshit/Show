@@ -1,4 +1,4 @@
-<img width="1517" height="642" alt="Screenshot 2026-08-07 010916" src="https://github.com/user-attachments/assets/9dcf377f-2419-4b6c-8c86-348480aff749" /># ⚓ Multimodal Energy Risk & Hedging Engine (2026 Crisis Simulation Due TO Iran WAR)
+ ⚓ Multimodal Energy Risk & Hedging Engine (2026 Crisis Simulation Due TO Iran WAR)
 
 ## 📊 Project Overview
 This project is a production-grade risk management system designed to navigate a simulated energy crisis in the Strait of Hormuz. It utilizes **Multimodal AI** by fusing physical telemetry (AIS vessel tracking) with unstructured NLP signals (FinBERT sentiment analysis) to quantify geopolitical risk and automate financial hedging strategies.
@@ -42,7 +42,8 @@ This project is a production-grade risk management system designed to navigate a
 <img width="1517" height="642" alt="Screenshot 2026-08-07 010916" src="https://github.com/user-attachments/assets/2c4c55f7-424d-49e0-8f3b-59010ca5b79b" />
 
 **Power BI with the Integration of Julius**
-[file:///C:/Users/vansh/Downloads/Amcat/iran_war_oil_crisis_2026_power_bi_live_published_dashboard%20(2).html
+[[file:///C:/Users/vansh/Downloads/Amcat/iran_war_oil_crisis_2026_power_bi_live_published_dashboard%20(2).html
+](url)
 
 
 
