@@ -42,8 +42,16 @@ This project is a production-grade risk management system designed to navigate a
 <img width="1517" height="642" alt="Screenshot 2026-08-07 010916" src="https://github.com/user-attachments/assets/2c4c55f7-424d-49e0-8f3b-59010ca5b79b" />
 
 **Power BI with the Integration of Julius**
-[[file:///C:/Users/vansh/Downloads/Amcat/iran_war_oil_crisis_2026_power_bi_live_published_dashboard%20(2).html
-](url)
+<img width="1897" height="898" alt="image" src="https://github.com/user-attachments/assets/5d751ca2-4fda-45f3-9bcc-94ee0aa9dbc9" />
+<img width="1892" height="717" alt="image" src="https://github.com/user-attachments/assets/6b04fd96-e10c-4647-8572-5a0cb9b20549" />
+<img width="1912" height="833" alt="image" src="https://github.com/user-attachments/assets/428fbe16-31e1-47cc-96f3-85f60e378710" />
+<img width="1917" height="807" alt="image" src="https://github.com/user-attachments/assets/ebc3cc6a-5242-41f5-b078-fe83dadd0a6d" />
+<img width="1885" height="827" alt="image" src="https://github.com/user-attachments/assets/e430987c-7349-4a26-b163-6092a2b5deac" />
+
+
+
+
+
 
 
 
