@@ -1,4 +1,4 @@
-# ⚓ Multimodal Energy Risk & Hedging Engine (2026 Crisis Simulation Due TO Iran WAR)
+<img width="1517" height="642" alt="Screenshot 2026-08-07 010916" src="https://github.com/user-attachments/assets/9dcf377f-2419-4b6c-8c86-348480aff749" /># ⚓ Multimodal Energy Risk & Hedging Engine (2026 Crisis Simulation Due TO Iran WAR)
 
 ## 📊 Project Overview
 This project is a production-grade risk management system designed to navigate a simulated energy crisis in the Strait of Hormuz. It utilizes **Multimodal AI** by fusing physical telemetry (AIS vessel tracking) with unstructured NLP signals (FinBERT sentiment analysis) to quantify geopolitical risk and automate financial hedging strategies.
@@ -17,6 +17,9 @@ This project is a production-grade risk management system designed to navigate a
 - **Visualization**: Plotly, Streamlit
 - **DevOps/Backend**: FastAPI, Docker, Uvicorn, LocalTunnel
 - **Database**: SQLite / PostgreSQL (pgvector simulation)
+- **Visualization**: Power BI, Julius
+- **SQL**: postgresql
+- 
 
 ## 🏗️ Architecture
 1. **Data Ingestion**: Mocks 2026 crisis data including AIS telemetry and news headlines.
@@ -33,3 +36,15 @@ This project is a production-grade risk management system designed to navigate a
 1. Clone the repo.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the dashboard: `streamlit run dashboard.py`
+
+<img width="1837" height="827" alt="Screenshot 2026-08-07 010853" src="https://github.com/user-attachments/assets/2a18f3da-690e-4d13-86df-09cbde15ddec" />
+<img width="1485" height="827" alt="Screenshot 2026-08-07 010906" src="https://github.com/user-attachments/assets/de94cca7-8c21-4034-986f-5a0dafffda02" />
+<img width="1517" height="642" alt="Screenshot 2026-08-07 010916" src="https://github.com/user-attachments/assets/2c4c55f7-424d-49e0-8f3b-59010ca5b79b" />
+
+**Power BI with the Integration of Julius**
+[file:///C:/Users/vansh/Downloads/Amcat/iran_war_oil_crisis_2026_power_bi_live_published_dashboard%20(2).html
+
+
+
+
+
