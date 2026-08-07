@@ -1,4 +1,4 @@
-## **⚓ Multimodal Energy Risk & Hedging Engine (2026 Crisis Simulation Due TO Iran WAR)**
+## **⚓ Multimodal Energy Risk & Hedging Engine (2026 OIL Crisis Simulation Due TO Iran WAR)**
 
 ## 📊 Project Overview
 This project is a production-grade risk management system designed to navigate a simulated energy crisis in the Strait of Hormuz. It utilizes **Multimodal AI** by fusing physical telemetry (AIS vessel tracking) with unstructured NLP signals (FinBERT sentiment analysis) to quantify geopolitical risk and automate financial hedging strategies.
