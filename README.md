@@ -47,6 +47,8 @@ This project is a production-grade risk management system designed to navigate a
  <img width="942" height="498" alt="image" src="https://github.com/user-attachments/assets/2d6e444f-7ef3-4302-a7c1-29e33a6b1e0c" />
  <img width="1295" height="565" alt="image" src="https://github.com/user-attachments/assets/3a10ba9a-9f33-46b6-b9db-75e70e8f7afa" />
  <img width="1255" height="502" alt="image" src="https://github.com/user-attachments/assets/52588030-db46-4881-a280-f193bfdc1966" />
+ <img width="1297" height="540" alt="Screenshot 2026-08-08 134857" src="https://github.com/user-attachments/assets/207b844a-1630-486c-9a98-af0a204c3124" />
+
  
 
 
